@@ -9,7 +9,7 @@ The objective is to transform raw educational data into meaningful insights thro
 
 ## Dashboard Preview
 
-![Moulding Minds Power BI Dashboard](Moulding_Minds_Dashboard.png)
+
 
 ## Project Objectives
 
