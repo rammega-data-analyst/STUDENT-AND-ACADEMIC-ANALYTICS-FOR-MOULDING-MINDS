@@ -7,9 +7,6 @@ This project is developed using **Microsoft Power BI** to analyse student inform
 
 The objective is to transform raw educational data into meaningful insights through data cleaning, data analysis, KPI development, and interactive dashboard reporting.
 
-## Dashboard Preview
-
-![Moulding Minds Power BI Dashboard](Moulding_Minds_Dashboard.png)
 
 ## Project Objectives
 
@@ -134,6 +131,11 @@ The final dashboard layout includes:
 6. Parent Feedback Rating by Grade
 
 The remaining charts are retained in the Power BI report for detailed analysis.
+
+## Dashboard Preview
+
+![Moulding Minds Power BI Dashboard](Moulding_Minds_Dashboard.png)
+
 
 ## Business Recommendations
 
