@@ -9,7 +9,7 @@ The objective is to transform raw educational data into meaningful insights thro
 
 ## Dashboard Preview
 
-
+![Moulding Minds Power BI Dashboard](Moulding_Minds_Dashboard.png)
 
 ## Project Objectives
 
@@ -162,4 +162,6 @@ This project demonstrates an end-to-end data analytics workflow using Microsoft 
 ## Conclusion
 
 The project provided practical experience in transforming raw educational data into meaningful analytical reports. It demonstrates the use of Power BI for data preparation, performance analysis, interactive reporting, and dashboard development to support data-informed institutional decisions.
+
+
 
